@@ -1,2 +1,2 @@
 # Boon-Chin
-About me
+<hr>About me
