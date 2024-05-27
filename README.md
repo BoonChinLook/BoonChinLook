@@ -1,6 +1,6 @@
 # 💫 About Me:
 <hr>
-🌱 I’m currently a 2nd year Business Studies student.<br>
+🌱 I’m currently a Final year Business Studies student specialising in Data Analytics.<br>
 ⚡ I like rock climbing, gym, art and learning.
 
 
