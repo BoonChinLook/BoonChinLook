@@ -1,7 +1,7 @@
 # 💫 About Me:
 <hr>
 🌱 I’m currently a Final year Business Studies student specialising in Data Analytics.<br>
-⚡ I like rock climbing, gym, art and learning.
+⚡ I like rock climbing, gym, art and learning new things.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boon-chin-l-13b104193/)
