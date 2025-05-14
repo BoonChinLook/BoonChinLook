@@ -1,6 +1,6 @@
 # 💫 About Me:
 <hr>
-🌱 I’m currently a Final year Business Studies student specialising in Data Analytics.<br>
+🌱 Graduate Business Studies student who specialised in Data Analytics.<br>
 ⚡ I like rock climbing, gym, art and learning new things.
 
 # 🌐 Socials:
