@@ -1,6 +1,7 @@
 # 💫 About Me:
 <hr>
 🌱 Entry-Level DevOps Engineer with a First-Class Honours degree in Business Studies (Data Analytics, Dean's List) and a completed Postgraduate Certificate in Computer Science. Enthusiastic about cloud computing, automation, and DevOps practices, with strong analytical and technical skills.
+
 ⚡ I like simple things and learning new things.
 
 # 🌐 Socials:
