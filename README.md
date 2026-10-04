@@ -1,7 +1,7 @@
 # 💫 About Me:
 <hr>
-🌱 Aspiring Software Engineer with a First-Class Honours degree in Business Studies (Data Analytics, Dean’s List). Currently completing a Computer Science certificate.<br>
-⚡ I like rock climbing, gym, art and learning new things.
+🌱 Entry-Level DevOps Engineer with a First-Class Honours degree in Business Studies (Data Analytics, Dean's List) and a completed Postgraduate Certificate in Computer Science. Enthusiastic about cloud computing, automation, and DevOps practices, with strong analytical and technical skills.
+⚡ I like simple things and learning new things.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boon-chin-look/)
@@ -18,16 +18,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=s&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=s&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
